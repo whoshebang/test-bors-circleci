@@ -2,3 +2,4 @@
 
 * approval
 * delete branch
+* branch rule
