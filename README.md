@@ -1,3 +1,4 @@
 # test-bors-circleci
 
-test
+* approval
+* delete branch
